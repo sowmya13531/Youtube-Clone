@@ -28,4 +28,4 @@ and implemented with personal understanding and practice for learning purposes.
 
 ## 🚀 Live Demo
 
-> ([Add GitHub Pages link here after deployment](https://sowmya13531.github.io/Youtube-Clone/))
+> ([Deployed Link](https://sowmya13531.github.io/Youtube-Clone/))
