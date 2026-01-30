@@ -3,8 +3,9 @@
 A responsive **YouTube homepage UI clone** built using pure **HTML5** and **CSS3**.  
 This project was created to strengthen frontend fundamentals such as layout structuring, responsive design, and modern CSS techniques.
 
-# Live Website
-https://sowmya13531.github.io/Youtube-Clone/
+## 🚀 Live Demo
+
+> ([Deployed Link](https://sowmya13531.github.io/Youtube-Clone/))
 
 ## 🌟 Features
 - Responsive layout design  
@@ -26,6 +27,4 @@ https://sowmya13531.github.io/Youtube-Clone/
 This project was built by following the **SuperSimpleDev HTML & CSS course**  
 and implemented with personal understanding and practice for learning purposes.
 
-## 🚀 Live Demo
 
-> ([Deployed Link](https://sowmya13531.github.io/Youtube-Clone/))
