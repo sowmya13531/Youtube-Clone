@@ -5,7 +5,7 @@ This project was created to strengthen frontend fundamentals such as layout stru
 
 ## 🚀 Live Demo
 
-> ([Deployed Link](https://sowmya13531.github.io/Youtube-Clone/))
+> ([Deployed Live Link](https://sowmya13531.github.io/Youtube-Clone/))
 
 ## 🌟 Features
 - Responsive layout design  
